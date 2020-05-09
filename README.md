@@ -10,17 +10,7 @@
     TODO: Write this during compilation
     
 ### Tentative Timeline of the Project
-    Things Decided
-    ISA     -    RV32I (Details specified in the previous mail)
-    FPGA -    ZedBoard ( Available in IoT Lab. Can avail from Vinay Chamola with prior notice.)
-    IO       -    UART
-    
-
-    
-
-    Obviously the following is subject to change. It is a rough timeline I've made for the project.
-    Judging from how much time we have and how much time we have wasted, this'll be a successful project only if everyone is      into the project and is willing to dedicate the next month or so for this.
-
+    Obviously the following is subject to change. It is a rough timeline for the project.
     Timeline
        May 10-12
        - Decide on Application to focus on. 
